@@ -1,3 +1,4 @@
+import random
 
 # Menu inicial de apresentação do desafio
 print("=" * 50)
@@ -22,3 +23,9 @@ else:
     print('ERRO! Selecione uma opção de dificuldade válida.')
 
 print(f'Você terá {chances} chances para adivinhar o número. Boa sorte!')
+
+
+# Randomização do número a ser adivinhado pelo jogador
+numero = random.randint(1, 100)
+# Variável que armazena o número de rodadas (chances utilizadas)
+count  = 1
