@@ -20,6 +20,7 @@ Bem vindo ao **Projeto Adivinha**! Este é um desafio simples onde o jogador ten
 <br>
 
 ### 🎯 Como jogar:
+- No início, selecione a dificuldade do desafio (esta irá definir quantas chances você terá);
 - O sistema irá gerar um número aleatório dentro de um intervalo de 1 a 100;
 - Você será solicitado a inserir um palpite; 
 - O sistema informará se o número correto é maior ou menor que o palpite;
