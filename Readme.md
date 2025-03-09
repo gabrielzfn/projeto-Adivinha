@@ -1,4 +1,4 @@
-# Projeto Adivinha
+# Adivinha: Minigame de adivinhação
 Bem vindo ao **Projeto Adivinha**! Este é um desafio simples onde o jogador tenta adivinhar um número gerado aleatoriamente pelo sistema.
 
 <br>
